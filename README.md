@@ -1,4 +1,4 @@
-# tplot :: A terminal plotting library written in python
+# pycomplot :: A terminal plotting library written in python
 
 I [rewrote](https://github.com/elcoco/complot) this library in C.  
 
